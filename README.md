@@ -1,4 +1,4 @@
-# hutko payment plugin for VirtueMart
+# hutko for VirtueMart
 
 Accept payments through the hutko hosted checkout page.
 
