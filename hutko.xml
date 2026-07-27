@@ -4,7 +4,7 @@
     <author>hutko Service</author>
     <authorUrl>https://hutko.org/</authorUrl>
     <license>GNU General Public License version 2 or later</license>
-    <version>1.0.3</version>
+    <version>1.0.5</version>
     <description>VMPAYMENT_HUTKO_XML_DESCRIPTION</description>
     <files>
         <filename plugin="hutko">hutko.php</filename>

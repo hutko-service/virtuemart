@@ -37,7 +37,7 @@ Installing and enabling the plugin makes the `hutko` payment element available. 
 5. Open the **Configuration** tab and enter:
 
    - **Merchant ID**: your hutko merchant ID
-   - **Payment password**: your payment password from hutko technical settings
+   - **Secret key**: your secret key from hutko technical settings
    - **Payment currency**: the same currency as your VirtueMart payment method
    - **Successful payment status**, **Pending payment status**, and **Failed or reversed payment status**: choose the appropriate VirtueMart order statuses
 
@@ -105,7 +105,7 @@ Joomla 6 / VirtueMart 5 ще не перевірялися.
 5. Відкрийте вкладку **Configuration** та заповніть:
 
    - **Merchant ID**: ID мерчанта hutko
-   - **Payment password**: платіжний пароль із технічних налаштувань hutko
+   - **Secret key**: секретний ключ із технічних налаштувань hutko
    - **Payment currency**: ту саму валюту, що в платіжному методі VirtueMart
    - **Successful payment status**, **Pending payment status** і **Failed or reversed payment status**: потрібні статуси замовлення VirtueMart
 
