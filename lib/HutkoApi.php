@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * hutko API helper for VirtueMart.
+ *
+ * @package    VirtueMart
+ * @subpackage Payment
+ * @copyright  (C) 2026 hutko Service
+ * @license    GNU General Public License version 2 or later
+ */
+
 defined('_JEXEC') or die;
 
 /** Small, framework-independent Hutko protocol helper. */

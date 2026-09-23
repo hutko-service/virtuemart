@@ -4,8 +4,11 @@
     <author>hutko Service</author>
     <authorUrl>https://hutko.org/</authorUrl>
     <license>GNU General Public License version 2 or later</license>
-    <version>1.0.5</version>
-    <description>VMPAYMENT_HUTKO_XML_DESCRIPTION</description>
+	<version>1.0.6</version>
+	<description>VMPAYMENT_HUTKO_XML_DESCRIPTION</description>
+	<updateservers>
+		<server type="extension" name="hutko for VirtueMart updates">https://raw.githubusercontent.com/hutko-service/virtuemart/main/updates.xml</server>
+	</updateservers>
     <files>
         <filename plugin="hutko">hutko.php</filename>
         <folder>lib</folder>
